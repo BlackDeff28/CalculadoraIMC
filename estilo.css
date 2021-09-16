@@ -13,15 +13,16 @@ body{
 
 h1{
     text-align: center;
-    color: wheat;
+    color: black;
     font-size: 40px;
 }
 
 .titulo{
     font-size: 30px;
-    color: wheat;
+    color: black;
     margin-left: 50px; 
     margin-top: 0px;
+    font-weight: 600;
 }
 
 #display1{
@@ -33,7 +34,6 @@ h1{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
     color: blanchedalmond;
-   
 }
 
 #display2{
@@ -71,7 +71,7 @@ h1{
     height: 70px;
     margin-left: 16px;
     background-color: black;
-    color: yellow;
+    color: rgb(255,198,0);
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
     border-radius: 5px;
